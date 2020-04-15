@@ -3,5 +3,7 @@
 *.pyc
 __pycache__
 
-# ignore data files
-/data
+/data/stream-data/raw-stream-data
+/data/stream-data/figs
+/references
+

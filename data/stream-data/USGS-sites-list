@@ -1,0 +1,29 @@
+#
+# USGS NWISWeb site number list
+#
+# This file can be used to retrieve data from the
+# USGS NWISWeb internet based retrieval system using
+# the 'File of site Numbers' search criteria.
+#
+# This file can be edited, but the number of columns
+# must be equal for each row, and the 'site_no' column
+# must remain.
+#
+# The columns include:
+#  agency_cd  -- Agency code.  If no value is found, 'USGS' is assumed
+#  site_no    -- USGS site number
+#  station_nm -- USGS site name. This column is include for viewing only,
+#                                it is not used by the nwisweb system.
+#
+agency_cd	site_no	station_nm
+5s	15s	56s
+xx USGS    15266300    KENAI R AT SOLDOTNA AK   (1965-2019)
+xx USGS	15258000	KENAI R AT COOPER LANDING AK    (1948-2019)
+
+
+
+
+
+
+USGS	15266110	KENAI R BL SKILAK LK OUTLET NR STERLING AK (1998-2019)
+
