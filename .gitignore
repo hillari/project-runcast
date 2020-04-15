@@ -3,5 +3,6 @@
 *.pyc
 __pycache__
 
-# ignore data files
-/data
+/data/raw-data
+/references
+
