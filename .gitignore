@@ -3,6 +3,7 @@
 *.pyc
 __pycache__
 
-/data/raw-data
+/data/stream-data/raw-stream-data
+/data/stream-data/figs
 /references
 
